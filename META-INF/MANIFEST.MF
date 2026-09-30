@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Specification-Title: XtraNimations
+Specification-Vendor: Minecomedy
+Specification-Version: 1.0.1
+Implementation-Title: fabric
+Implementation-Version: 1.0.1
+Implementation-Vendor: Minecomedy
+Built-On-Minecraft: 1.20.1
+Fabric-Jar-Type: classes
+Fabric-Loom-Mixin-Remap-Type: mixin
+Fabric-Gradle-Version: 8.11
+Fabric-Loom-Version: 1.9.2
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.20.1
+Fabric-Tiny-Remapper-Version: 0.10.4
+Fabric-Loader-Version: 0.16.9
+Fabric-Mixin-Version: 0.15.4+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+
